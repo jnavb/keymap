@@ -2,7 +2,9 @@
 
 One set of keys for every app on my Mac, on both Spanish ISO and US layouts.
 
-![Keymap Atlas cycling through the layers](keymap.gif)
+![Each layer key is pressed, its keys light up, and a demo shows what they do](keymap.gif)
+
+[Full 1080p video](keymap.mp4)
 
 ## Layers
 
